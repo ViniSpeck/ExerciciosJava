@@ -29,7 +29,4 @@ public class Employee{
 			this.salary = salary;
 		}
 	}
-	public double getSalaryIncrease(){
-		return (salary * 1.1);
-	}
 }
